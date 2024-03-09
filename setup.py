@@ -1,4 +1,4 @@
-# for instaling local pakages in v env
+# for instaling local pakages in virtual envirornment
 from setuptools import find_packages,setup
 
 setup(
